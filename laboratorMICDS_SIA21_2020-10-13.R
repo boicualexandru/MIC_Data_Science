@@ -137,8 +137,8 @@ test  <- rezultat %>%
 # salvare cadru nou de date
 rm(rezultat, test)
 getwd()
-save.image('all_data_covid_2020-10-13.RData')
-load('all_data_covid_2020-10-13.RData')
+#save.image('all_data_covid_2020-10-13.RData')
+#load('all_data_covid_2020-10-13.RData')
 
 
 # II.4 rata zilnica de testare (procent), raportat la total populatie
